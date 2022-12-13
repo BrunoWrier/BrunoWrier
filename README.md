@@ -4,7 +4,7 @@
 
 ### Also follow me on twitter: https://twitter.com/BrunoWrier
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWrier&exclude_repo=Intersect-Engine,HorrorFPSMultiplayer&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWrier&exclude_repo=Intersect-Engine,HorrorFPSMultiplayer&hide=c#&theme=tokyonight)
 
 <!--
 **BrunoWrier/BrunoWrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
