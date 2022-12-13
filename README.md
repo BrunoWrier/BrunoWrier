@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Welcome to my profile! Make yourself confortable!
+
+### Also follow me on twitter: https://twitter.com/BrunoWrier
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowrier)](https://github.com/brunowrier/github-readme-stats)
 
 <!--
