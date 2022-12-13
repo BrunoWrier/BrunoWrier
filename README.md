@@ -4,7 +4,7 @@
 
 ### Also follow me on twitter: https://twitter.com/BrunoWrier
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowrier&theme=tokyonight&hide=C#)](https://github.com/brunowrier/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowrier&hide=C#)](https://github.com/brunowrier/github-readme-stats)
 
 <!--
 **BrunoWrier/BrunoWrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
